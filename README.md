@@ -11,12 +11,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas pretium, ligul
 '''
 
 # MDM2_wk2
+
 MDM2 Conflicts Repo
 ===================
 
 Here is Thibauds changes
 
+this is new haiku
 
+A world of dew,
+
+And within every dewdrop
+
+A world of struggle.
 
 this is new code
 
@@ -34,3 +41,4 @@ print("Hello World!")
 print("This is the test")
 
 fact(6842023)
+=======
