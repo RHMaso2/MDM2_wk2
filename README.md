@@ -3,8 +3,6 @@ README
 This is the readme file.
 
 '''
-Experiments:
-0001 (Git Branch): Unknown
 
 This is a test.
 
@@ -21,3 +19,18 @@ Here is Thibauds changes
 
 
 this is new code
+
+<code> 
+from math import factorial
+
+def fact(in):
+	return factorial(in)
+
+## This is code
+'''
+This is a comment
+'''
+print("Hello World!")
+print("This is the test")
+
+fact(6842023)
